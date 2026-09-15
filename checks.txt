@@ -1,0 +1,12 @@
+Filas totales: 72 (esperado 72)
+Filas ok=True: 72
+Filas con Ppvinst fuera de banda AGGE [1,5] MW: 0
+Ppvinst_kWp: min=2088.6 max=4608.1 media=3123.9
+C_kWh (BESS): min=0.0 max=5767.3 media=862.2
+LCOEgross USD/MWh: min=29.7 max=100.8 media=67.0
+LCOEnet USD/MWh: min=-81.1 max=-15.3 media=-43.3
+Filas con LCOEgross negativo (inesperado): 0
+Filas duplicadas (node,demand,version): 0
+TIR%: min=8.2 max=17.5
+BCratio: min=1.03 max=1.83
+Cambio en generacion PV maxima disponible (B vs A): min=-1.47% max=5.14%

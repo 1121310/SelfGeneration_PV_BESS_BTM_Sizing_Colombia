@@ -1,0 +1,7 @@
+gurobipy>=13.0
+numpy>=2.0
+pandas>=2.0
+numpy_financial
+openpyxl
+matplotlib
+pypdf
